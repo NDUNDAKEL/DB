@@ -1,0 +1,36 @@
+{
+    "expenses": [
+      {
+        "name": "Groceries",
+        "description": "Bought vegetables and fruits",
+        "category": "Food",
+        "amount": "2500",
+        "date": "2025-04-12",
+        "id": "1"
+      },
+      {
+        "name": "Electricity Bill For ",
+        "description": "Monthly KPLC bill",
+        "category": "Utilities",
+        "amount": 4200,
+        "date": "2025-04-10",
+        "id": "2"
+      },
+      {
+        "id": "3",
+        "name": "Internet",
+        "description": "Monthly Wi-Fi subscription",
+        "category": "Utilities",
+        "amount": 3000,
+        "date": "2025-04-05"
+      },
+      {
+        "name": "Lunch",
+        "description": "Lunch at Java C",
+        "category": "Food",
+        "amount": 1200,
+        "date": "2025-04-11",
+        "id": "4"
+      }
+    ]
+  }
