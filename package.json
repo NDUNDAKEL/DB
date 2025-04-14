@@ -1,11 +1,11 @@
 {
     "name": "DB",
     "version": "1.0.0",
-    "scripts": {
-      "start": "react-scripts start",
-      "json-server": "json-server --watch db.json --port 5000",
-      "dev": "concurrently \"npm run json-server\" \"npm start\""
-    },
+"scripts": {
+  "json-server": "json-server --watch db.json --port 3000",
+  "start": "npm run json-server"
+}
+,
    
     "devDependencies": {
       "json-server": "^0.16.3",
