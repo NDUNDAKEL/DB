@@ -2,8 +2,7 @@
     "name": "DB",
     "version": "1.0.0",
 "scripts": {
-  "json-server": "json-server --watch db.json --port 3000",
-  "start": "npm run json-server"
+  "start": "json-server --watch db.json --port 10000 --host 0.0.0.0"
 }
 ,
    
